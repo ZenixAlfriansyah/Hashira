@@ -90,7 +90,7 @@
 
 ----------
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://repl.it/github/zeeoneofficial/Alphabot-Md)
+[![Run on Repl.it](https://github.com/ZenixAlfriansyah/Hashira)](https://github.com/ZenixAlfriansyah/Hashira)
 ------
 <p align="center">
   <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/873e2bbfbd1f15a535995.jpg" />
